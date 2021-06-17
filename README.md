@@ -69,7 +69,7 @@ Lembre-se também de **não modificar** os describes dos tests na pasta `test`. 
 
   - Serão dois dias de projeto.
 
-  - Data de entrega para avaliação final do projeto: `DD/MM/YYYY - 14:00h`.
+  - Data de entrega para avaliação final do projeto: `25/06/2021 - 14:00h`.
 
 ---
 
@@ -78,7 +78,7 @@ Lembre-se também de **não modificar** os describes dos tests na pasta `test`. 
 ## Antes de começar a desenvolver
 
 1. Clone o repositório
-  * `git clone https://github.com/tryber/sd-012-project-jest.git`.
+  * `git clone https://github.com/tryber/sd-012-project-jest.git`
   * Entre na pasta do repositório que você acabou de clonar:
     * `cd sd-012-project-jest`
 

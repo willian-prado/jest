@@ -7,7 +7,7 @@ Foram colocados em prática os conteúdos sobre Jest assíncrono e Mocks aplicad
 **Principais habilidades desenvolvidas nesse trabalho:**
 
 - Escrever testes para funções assíncronas;
-- Aplicar os seus conhecimentos acerca de testes utilizando o Jest;
+- Aplicar conhecimentos acerca de testes utilizando o Jest;
 - "Mockar" funções;
 - "Mockar" APIs;
 

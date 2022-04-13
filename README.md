@@ -1,8 +1,14 @@
 ## Projeto Jest
 
-Nono e último projeto do módulo de Fundamentos do curso de desenvolvimento web da Trybe. \
+> Nono e último projeto do módulo de Fundamentos do curso de desenvolvimento web da Trybe.
+
+**Contexto**
+
 Neste projeto retornamos à criação de testes automatizados, desta vez usando a biblioteca Jest.
-Foram colocados em prática os conteúdos sobre Jest assíncrono e Mocks aplicados a testes em Javascript.
+
+**Objetivo do projeto**
+
+Implementar testes utilizando o Jest para verificar se uma série de funções estão funcionando corretamente, colocando em prática o conteúdo sobre Jest assíncrono e Mocks aplicados a testes em Javascript.
 
 **Principais habilidades desenvolvidas nesse trabalho:**
 
@@ -11,9 +17,14 @@ Foram colocados em prática os conteúdos sobre Jest assíncrono e Mocks aplicad
 - "Mockar" funções;
 - "Mockar" APIs;
 
+**Tecnologias utilizadas**
+- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" align="center" height="30"/>  - JavaScript</a>
+- <a href="https://nodejs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" title="Node.js" align="center" height="30"/> - Node.js</a>
+- <a href="https://jestjs.io"><img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" title="Jest" align="center" height="30"/> - Jest </a> 
+
 ---
 
-### Lista de requisitos propostos:
+### Lista de requisitos propostos pela Trybe:
 
 #### Obrigatórios
 

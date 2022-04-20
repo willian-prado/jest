@@ -1,16 +1,16 @@
 ## Projeto Jest
 
-> Nono e último projeto do módulo de Fundamentos do curso de desenvolvimento web da Trybe.
+> Nono e último projeto do módulo de Fundamentos do curso de desenvolvimento web da [Trybe](https://www.betrybe.com/)
 
 **Contexto**
 
-Neste projeto retornamos à criação de testes automatizados, desta vez usando a biblioteca Jest.
+Neste projeto voltamos à criação de testes automatizados, desta vez usando a biblioteca Jest.
 
 **Objetivo do projeto**
 
 Implementar testes utilizando o Jest para verificar se uma série de funções estão funcionando corretamente, colocando em prática o conteúdo sobre Jest assíncrono e Mocks aplicados a testes em Javascript.
 
-**Principais habilidades desenvolvidas nesse trabalho:**
+**Principais habilidades desenvolvidas nesse trabalho**
 
 - Escrever testes para funções assíncronas;
 - Aplicar conhecimentos acerca de testes utilizando o Jest;
@@ -87,3 +87,8 @@ Exemplo de resposta da API randomuser.me:
 **4 - Crie funções no arquivo test/setupTeardown.spec.js**
 
 Intercale funções entre os testes definidos no arquivo `test/setupTeardown.spec.js`.
+
+---
+
+[Ir para a lista de projetos](https://github.com/willian-prado/trybe-records)
+
